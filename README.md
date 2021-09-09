@@ -1,7 +1,7 @@
 # random-discord-bot
 now working bot, actually useless
 
-#tutorial on windows machine
+# tutorial on windows machine
 1. install python3
 2. install discord.py
 ```bash
