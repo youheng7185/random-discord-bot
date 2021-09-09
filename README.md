@@ -2,14 +2,18 @@
 now working bot, actually useless
 
 # tutorial on windows machine
-1. install python3
+1. install python3 and git
 2. install discord.py
 ```bash
 py -3 -m pip install -U discord.py
 ```
-3. open up cmd go to the script directory
-4. remember to put your bot token
-5. execute the python file
+3. open up cmd go to the directory
+4. git clone this repo
+```bash
+git clone https://github.com/youheng7185/random-discord-bot/
+```
+6. remember to put your bot token
+7. execute the python file
 ```bash
 py -3 file-name-here.py
 ```
